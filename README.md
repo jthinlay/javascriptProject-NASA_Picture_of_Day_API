@@ -1,1 +1,1 @@
-# javascript-project-nasaPictureOftheDay
+# javascriptProject-NASA_Picture_of_Day_API
